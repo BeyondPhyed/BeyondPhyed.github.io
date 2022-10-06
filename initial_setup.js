@@ -1,4 +1,15 @@
 //==========================================================================================
+//variables
+
+let myWidth, myHeight;
+let writer;
+let timeInput = [];
+let dateTime = '22'; //2022
+
+let color = [];
+let color2 = [];
+let buttonLocate = [];
+
 
 //initial_setup
 function initial_setup(_H) { 
