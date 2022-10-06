@@ -3,12 +3,12 @@
 
 let myWidth, myHeight;
 let writer;
-let timeInput = [];
-let dateTime = '22'; //2022
+//let timeInput = [];
+//let dateTime = '22'; //2022
 
 let color = [];
 let color2 = [];
-let buttonLocate = [];
+//let buttonLocate = [];
 
 
 //initial_setup
